@@ -33,7 +33,7 @@ namespace Common.Config
             }
             catch (Exception)
             {
-
+                1
                 throw;
             }
         }
