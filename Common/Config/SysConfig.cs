@@ -32,8 +32,8 @@ namespace Common.Config
                 }
             }
             catch (Exception)
-            {dd
-
+            {
+                Console.Write("111");
                 throw;
             }
         }
