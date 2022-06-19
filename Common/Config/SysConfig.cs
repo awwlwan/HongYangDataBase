@@ -32,8 +32,8 @@ namespace Common.Config
                 }
             }
             catch (Exception)
-            {
-                11
+            {dd
+
                 throw;
             }
         }
