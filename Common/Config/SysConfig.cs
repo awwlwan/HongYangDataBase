@@ -33,7 +33,6 @@ namespace Common.Config
             }
             catch (Exception)
             {
-                Console.Write("111");
                 throw;
             }
         }
